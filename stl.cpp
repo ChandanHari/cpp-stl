@@ -134,9 +134,9 @@ void power_of_stl(){s
 
 int main(){
 
-  // setDemo();
+    setDemo();
 
-    // mapDemo();
+    mapDemo();
 
     return 0;
 }
